@@ -1,16 +1,17 @@
-## Hi there 👋
+# Samuel McDonald
+Business Analytics major (Economics minor) at the University of Denver
+Incoming MS in Applied Data Science & AI (Winter 2027)
 
-<!--
-**samuel-mcdonald/samuel-mcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I focus on data analytics, optimization, and model building to solve real business problems. My experience includes projects in SQL, Python, and machine learning. I’m especially interested in using data to drive decision-making in areas like sports analytics, finance, and business strategy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- MLB Optimization Model
+- More projects coming soon...
+
+## 🛠️ Skills
+- Python
+- SQL
+- Optimization (Pyomo)
+- Tableau / Power BI
