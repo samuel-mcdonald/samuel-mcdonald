@@ -7,7 +7,7 @@ Incoming MS in Applied Data Science & AI (Winter 2027)
 I focus on data analytics, optimization, and model building to solve real business problems. My experience includes projects in SQL, Python, and machine learning. I’m especially interested in using data to drive decision-making in areas like sports analytics, finance, and business strategy.
 
 ## 📊 Projects
-- MLB Optimization Model
+- [MLB Optimization Model](https://github.com/samuel-mcdonald/mlb-optimization-model) -  Optimization model comparing lineup strategies (268 vs 79 vs 62)
 - More projects coming soon...
 
 ## 🛠️ Skills
