@@ -8,6 +8,8 @@ I focus on data analytics, optimization, and model building to solve real busine
 
 ## 📊 Projects
 - [MLB Optimization Model](https://github.com/samuel-mcdonald/mlb-optimization-model) – Optimization model comparing lineup strategies (268 vs 79 vs 62)
+- [Client Experience Analysis](https://github.com/samuel-mcdonald/client-experience-analysis) – Capstone project analyzing client feedback and turning review data from staff and participants into business recommendations
+
 - More projects coming soon...
 
 ## 🛠️ Skills
